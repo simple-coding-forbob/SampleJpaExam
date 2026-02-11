@@ -1,2 +1,2 @@
-# SampleJpaExam
-Sample, 주석 없음
+# SimpleJpaExam
+SimpleJpaExam
